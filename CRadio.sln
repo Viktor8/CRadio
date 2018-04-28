@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRadio", "CRadio\CRadio.csproj", "{6672041D-4A32-4525-942C-ACAD66845F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPlayerStreamer", "CPlayerStreamer\CPlayerStreamer.csproj", "{94CC4BE7-1224-413B-99CE-166E3FC14BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6672041D-4A32-4525-942C-ACAD66845F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6672041D-4A32-4525-942C-ACAD66845F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6672041D-4A32-4525-942C-ACAD66845F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6672041D-4A32-4525-942C-ACAD66845F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CC4BE7-1224-413B-99CE-166E3FC14BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CC4BE7-1224-413B-99CE-166E3FC14BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CC4BE7-1224-413B-99CE-166E3FC14BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CC4BE7-1224-413B-99CE-166E3FC14BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137CE024-F03F-4993-AD40-E062B50EA2A2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\CPlayerStreamer.dll
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\CPlayerStreamer.pdb
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\CPlayer.exe
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\NAudio.dll
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\irrKlang.NET4.dll
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\CPlayer.pdb
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\NAudio.xml
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\obj\Debug\CPlayerStreamer.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\obj\Debug\CPlayerStreamer.dll
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\obj\Debug\CPlayerStreamer.pdb
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayerStreamer.dll
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayerStreamer.pdb
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayer.exe
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayerStreamContract.dll
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\NAudio.dll
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\irrKlang.NET4.dll
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayerStreamContract.pdb
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayer.pdb
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\NAudio.xml
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\obj\Debug\CPlayerStreamer.csprojResolveAssemblyReference.cache
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\obj\Debug\CPlayerStreamer.dll
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\obj\Debug\CPlayerStreamer.pdb
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\bin\Debug\CPlayer.exe.config
+E:\GitHub\CRadioStreamingExperiments\CrossproccessPipeTesting\CPlayerStreamer\obj\Debug\CPlayerStreamer.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\obj\Debug\CPlayerStreamer.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\CRadio\CPlayerStreamer\bin\Debug\CPlayer.exe.config
